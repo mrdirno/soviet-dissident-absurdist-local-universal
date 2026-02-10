@@ -1,0 +1,72 @@
+{
+  "book_id": "soviet-dissident-absurdist-local-universal",
+  "title": "The Serpent of Wool Coats",
+  "tagline": "In a frozen city of endless queues and hydraulic ideals, a proofreader discovers that a misplaced comma can unravel a life, a system, and reality itself.",
+  "target_words": 74234,
+  "actual_words": 74234,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Absurdity of Bureaucracy",
+    "The Search for Meaning in Banality",
+    "The Individual Versus the System",
+    "Myth and Rumor in a Closed Society"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Serpent of Wool Coats",
+      "words": 6748
+    },
+    {
+      "ch": 2,
+      "title": "Ink, Anxiety, and the Hydraulic Ideal",
+      "words": 6748
+    },
+    {
+      "ch": 3,
+      "title": "A Bureaucratic Dream in Triplicate",
+      "words": 6748
+    },
+    {
+      "ch": 4,
+      "title": "The Crack in the Kitchen Tile",
+      "words": 6748
+    },
+    {
+      "ch": 5,
+      "title": "Station No. 7 in the Negative Dawn",
+      "words": 6748
+    },
+    {
+      "ch": 6,
+      "title": "A Declaration of Non-Occurrence",
+      "words": 6748
+    },
+    {
+      "ch": 7,
+      "title": "The Silence of the Pump House",
+      "words": 6748
+    },
+    {
+      "ch": 8,
+      "title": "A Hum in the Marrow",
+      "words": 6748
+    },
+    {
+      "ch": 9,
+      "title": "A Return to the Serpent",
+      "words": 6748
+    },
+    {
+      "ch": 10,
+      "title": "The Plenum Beneath",
+      "words": 6748
+    },
+    {
+      "ch": 11,
+      "title": "The Listless, Grey Worm",
+      "words": 6748
+    }
+  ]
+}
